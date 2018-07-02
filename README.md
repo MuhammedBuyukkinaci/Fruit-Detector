@@ -1,2 +1,2 @@
 # Fruit-Detector
-Implementation of TensorFlow Object Detection API on Windows 10.
+Implementation of TensorFlow Object Detection API on fruit images.
