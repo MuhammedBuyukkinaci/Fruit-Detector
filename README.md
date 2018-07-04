@@ -1,6 +1,10 @@
 # Fruit-Detector
 Implementation of TensorFlow Object Detection API on fruit images.
 
+# Data
+
+Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection)
+
 # Results
 
 Input Image             |  Output Image                     
