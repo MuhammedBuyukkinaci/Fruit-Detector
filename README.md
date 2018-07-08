@@ -7,26 +7,28 @@ Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-f
 
 # Results
 
-Input Image             |  Output Image                     
-:-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/trial1.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/fruit-detector1.png" width="400" height="400">  
-
+![alt text](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png) 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/trial2.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/fruit-detector2.png" width="400" height="400">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial1.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector1.png" width="300" height="300">  
 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/trial3.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/fruit-detector3.png" width="400" height="400">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial2.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector2.png" width="300" height="300">  
 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/trial4.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/fruit-detector4.png" width="400" height="400">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial3.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector3.png" width="300" height="300">  
 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/trial5.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/fruit-detector5.png" width="400" height="400">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial4.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector4.png" width="300" height="300">  
+
+
+Input Image             |  Output Image                     
+:-------------------------:|:-------------------------
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial5.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector5.png" width="300" height="300">  
