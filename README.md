@@ -1,17 +1,17 @@
 # Fruit-Detector
-Implementation of [TensorFlow Object Detection API on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA) with fruit images.
+Implementation of [TensorFlow Object Detection API on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA) with fruit images without Anaconda Distribution.
 
 # Changes
 
-No Anaconda Distribution.
+No Anaconda Distribution. Use command prompt instead of Anaconda Prompt.
 
-1)Don't use the below commands in 2d.
+1) Don't use the below commands in 2d.
 
 ```conda create -n tensorflow1 pip python=3.5```
 
 ```activate tensorflow1```
 
-2)Change the command below
+2) Change the command below
 
 ```conda install -c anaconda protobuf```
 
@@ -19,11 +19,11 @@ to this
 
 ```pip install protobuf --upgrade```
 
-3)Download protoc.exe from [here](https://github.com/google/protobuf/releases/download/v3.6.0/protoc-3.6.0-win32.zip) . Copy protoc.exe(in bin folder) to C:\tensorflow1\models\research.
+3) Download protoc.exe from [here](https://github.com/google/protobuf/releases/download/v3.6.0/protoc-3.6.0-win32.zip) . Copy protoc.exe(in bin folder) to C:\tensorflow1\models\research.
  
 Then run 2f.
 
-4)Before step6, open C:\tensorflow1\models\research\object_detection\utils\learning_schedules.py with a text editor.
+4) Before step6, open C:\tensorflow1\models\research\object_detection\utils\learning_schedules.py with a text editor.
 
 Change the line 168 from
 
@@ -35,13 +35,15 @@ to
 
 # Data
 
-Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection).
+Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection). 240 training images 60 test images. No problematic image.
+
+3 different types of fruits: Apple, Banana, Orange.
+
+.xml files in data have coordinates of objects.
 
 # Results
 
 [![TensorFlow Object Detection API](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png)](https://www.youtube.com/watch?v=twlulg36QHA)
-
-![alt text](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png) 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
@@ -69,6 +71,6 @@ Input Image             |  Output Image
 
 # Credits
 
-Credits go to [EdgeElectronics](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10). I just follewed the steps in the tutorial.
+Credits go to [EdgeElectronics](https://github.com/EdjeElectronics). I just follewed the steps in the tutorial.
 
 
