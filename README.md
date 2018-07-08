@@ -41,9 +41,15 @@ Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-f
 
 .xml files in data have coordinates of objects.
 
-# Results
+# Training
+
+I trained it on a GTX 1050 for 5 hours. Approximately 53000 iterations.
+
+# Youtube Video
 
 [![TensorFlow Object Detection API](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png)](https://www.youtube.com/watch?v=twlulg36QHA)
+
+# Results on images
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
