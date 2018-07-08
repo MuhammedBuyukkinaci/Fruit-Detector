@@ -5,13 +5,13 @@ Implementation of [TensorFlow Object Detection API on Windows 10](https://www.yo
 
 No Anaconda Distribution.
 
-1) Don't use the below commands in 2d.
+1)Don't use the below commands in 2d.
 
 ```conda create -n tensorflow1 pip python=3.5```
 
 ```activate tensorflow1```
 
-2) Change the command below
+2)Change the command below
 
 ```conda install -c anaconda protobuf```
 
@@ -43,27 +43,27 @@ Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-f
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial1.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector1.png" width="300" height="300">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial1.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector1.png" width="400" height="400">  
 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial2.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector2.png" width="300" height="300">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial2.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector2.png" width="400" height="400">  
 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial3.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector3.png" width="300" height="300">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial3.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector3.png" width="400" height="400">  
 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial4.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector4.png" width="300" height="300">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial4.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector4.png" width="400" height="400">  
 
 
 Input Image             |  Output Image                     
 :-------------------------:|:-------------------------
-<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial5.jpg" width="300" height="300">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector5.png" width="300" height="300">  
+<img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/trial5.jpg" width="400" height="400">  | <img src="https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/fruit-detector5.png" width="400" height="400">  
 
 # Credits
 
