@@ -39,6 +39,8 @@ Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-f
 
 # Results
 
+[![TensorFlow Object Detection API](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png)](https://www.youtube.com/watch?v=twlulg36QHA)
+
 ![alt text](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png) 
 
 Input Image             |  Output Image                     
