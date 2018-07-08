@@ -17,7 +17,7 @@ No Anaconda Distribution. Use command prompt instead of Anaconda Prompt.
 
 to this
 
-    ```pip install protobuf --upgrade```
+```pip install protobuf --upgrade```
 
 3) Download protoc.exe from [here](https://github.com/google/protobuf/releases/download/v3.6.0/protoc-3.6.0-win32.zip) . Copy protoc.exe(in bin folder) to C:\tensorflow1\models\research.
  
