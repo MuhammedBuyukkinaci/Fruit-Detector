@@ -35,7 +35,7 @@ to
 
 # Data
 
-Data can be downloaded fom [here](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection). 240 training images 60 test images. No problematic image.
+Data can be downloaded from [here](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection). 240 training images 60 test images. No problematic image.
 
 3 different types of fruits: Apple, Banana, Orange.
 
