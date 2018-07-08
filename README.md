@@ -47,7 +47,7 @@ I trained it on a GTX 1050 for 5 hours. Approximately 53000 iterations.
 
 # Youtube Video
 
-[![TensorFlow Object Detection API](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png)](https://www.youtube.com/watch?v=twlulg36QHA)
+[![TensorFlow Object Detection API](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png)](https://www.youtube.com/watch?v=BCO1XdwUZYw&feature=youtu.be)
 
 # Results on images
 
