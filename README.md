@@ -45,6 +45,10 @@ Data can be downloaded from [here](https://www.kaggle.com/mbkinaci/fruit-images-
 
 I trained it on a GTX 1050 for 5 hours. Approximately 53000 iterations.
 
+# Implemented Model
+
+Faster R CNN inception v2 model.
+
 # Youtube Video
 
 [![TensorFlow Object Detection API](https://github.com/MuhammedBuyukkinaci/Fruit-Detector/blob/master/images/my_ss.png)](https://www.youtube.com/watch?v=BCO1XdwUZYw&feature=youtu.be)
@@ -77,6 +81,6 @@ Input Image             |  Output Image
 
 # Credits
 
-Credits go to [EdgeElectronics](https://github.com/EdjeElectronics). I just follewed the steps in the tutorial.
+Credits go to [EdgeElectronics](https://github.com/EdjeElectronics). I just followed the steps in the tutorial.
 
 
